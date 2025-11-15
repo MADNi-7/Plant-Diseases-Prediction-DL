@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual envs
+.venv/
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# Data / models
+models/
+*.h5
+*.keras
+*.ckpt
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
